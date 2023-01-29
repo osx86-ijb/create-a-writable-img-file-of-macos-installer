@@ -1,4 +1,4 @@
- <h1 align="center">Steps one would take to create a bootable .img file of a full macOS installer from within macOS, to be written to a USB device by users via any OS of their choosing.</h1>
+ <h1 align="center">Steps one would take to create a bootable .img file of a full macOS installer from within macOS, to be written to a USB device by users via any OS of their choosing via issuing the DD command.</h1>
 
 ```
 1) Create blank disc image via disk utility (choose the read/write dmg choice)
